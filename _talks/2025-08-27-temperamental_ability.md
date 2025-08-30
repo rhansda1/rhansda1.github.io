@@ -1,4 +1,4 @@
-title: "Temperamental ability in games and sports -  understanding of the factors and its influences"
+title: "Temperamental ability in games and sports -  an understanding of the factors and its influences"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2025-08-27-temperamental_ability
