@@ -1,4 +1,3 @@
-
 ---
 title: "Temperamental ability in games and sports - an understanding of the factors and its influences"
 collection: talks
